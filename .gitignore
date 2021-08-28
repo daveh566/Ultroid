@@ -1,4 +1,4 @@
-.env
+.en
 *.session-journal
 *.session
 build
